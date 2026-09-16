@@ -5,8 +5,10 @@ A small iOS app built with UIKit (programmatic, no Storyboard) to practice consu
 This project was built while learning native iOS development after coming from a Flutter background.
 
 Tech Stack:
-Swift — Optionals, structs vs classes, closures, protocols, extensions
-UIKit — programmatic Auto Layout, UIStackView, custom UITableViewCell subclasses, UINavigationController, custom navigation bar styling
-Networking — URLSession, async/await, Codable (JSON encoding/decoding), URLRequest for POST/DELETE
+1. Swift - Optionals, structs vs classes, closures, protocols, extensions
+
+2. UIKit — programmatic Auto Layout, UIStackView, custom UITableViewCell subclasses, UINavigationController, custom navigation bar styling
+
+3. Networking — URLSession, async/await, Codable (JSON encoding/decoding), URLRequest for POST/DELETE
 Concurrency — Task, weak self and retain-cycle avoidance, task cancellation on cell reuse
 
